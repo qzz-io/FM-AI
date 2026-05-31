@@ -1,3 +1,1 @@
-# FM-AI
-
-https://github.com/qzz-io/FM-AI/raw/refs/heads/main/video/9.mp4 
+<img width="1024" height="1024" alt="3" src="https://raw.githubusercontent.com/qzz-io/FM-AI/refs/heads/main/3.png" />
